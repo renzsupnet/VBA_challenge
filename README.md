@@ -26,17 +26,29 @@
   
   ## Screenshots
 
-    This is about page (default home page)
-  ![A Screenshot of the about me page](./src/assets/home.png)
+    This is Q1 results before running VBA Script
+  ![A Screenshot of the about me page](./before_q1.png)
 
-    This is the portfolio page.
-  ![A Screenshot of the portfolio page](./src/assets/portfolio.png)
+    This is Q1 results after
+  ![A Screenshot of the portfolio page](./after_q1.png)
 
-    This is the contact page with built in basic validation.
-  ![A Screenshot of the contact pagee](./src/assets/contact.png)
+    This is Q2 results before running VBA Script
+  ![A Screenshot of the about me page](./before_q2.png)
 
-    This is the resume page with a download resume button.
-  ![A Screenshot of the resume page](./src/assets/resume.png)
+    This is Q2 results after
+  ![A Screenshot of the portfolio page](./after_q2.png)
+
+      This is Q3 results before running VBA Script
+  ![A Screenshot of the about me page](./before_q3.png)
+
+    This is Q3 results after
+  ![A Screenshot of the portfolio page](./after_q3.png)
+
+      This is Q4 results before running VBA Script
+  ![A Screenshot of the about me page](./before_q4.png)
+
+    This is Q4 results after
+  ![A Screenshot of the portfolio page](./after_q4.png)
   
 
 
