@@ -16,7 +16,8 @@
 
   ## Installation
 
-    Make sure you have intalled the latest Microsoft Excel, activate developer settings, go to visual basics, add a module and paste the script. Make sure macros are enabled
+    Make sure you have intalled the latest Microsoft Excel, activate developer settings, go to visual basics,
+    add a module and paste the script. Make sure macros are enabled
 
   ## Usage
 
